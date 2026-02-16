@@ -1,7 +1,5 @@
 services:
-  - type: static
+  - type: static_site
     name: petswap
     env: static
-    buildCommand: # No build needed for static site
-    publishDir: .
     repo: https://github.com/Mathew-Harvey/petswap
