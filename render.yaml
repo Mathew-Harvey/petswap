@@ -1,6 +1,0 @@
-services:
-  - type: static_site
-    name: petswap
-    env: static
-    repo: https://github.com/Mathew-Harvey/petswap
-    publishDir: .
