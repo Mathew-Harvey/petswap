@@ -3,3 +3,4 @@ services:
     name: petswap
     env: static
     repo: https://github.com/Mathew-Harvey/petswap
+    publishDir: .
